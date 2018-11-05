@@ -3,3 +3,4 @@ Git is free software.
 Git is a software that I learning now
 Git trying
 Git tracks changes
+Git is a useful software
